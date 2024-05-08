@@ -1,2 +1,2 @@
-# Alura-
+# Alura
 Imersão IA
